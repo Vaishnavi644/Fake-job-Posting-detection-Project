@@ -38,9 +38,9 @@ Link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-predi
 
 | File | Description |
 |---|---|
-| `Vaishnavi_FakeJobPostingDetection.ipynb` | Complete project code (EDA, preprocessing, modeling, evaluation, prediction system) |
+| `VaishnaviSharma_FakeJobPostingPredictionProject.ipynb` | Complete project code (EDA, preprocessing, modeling, evaluation, prediction system) |
+| `VaishnaviSharma_ProjectReport.docx` | Full project documentation and report |
 | `requirements.txt` | Python libraries required to run the notebook |
-| `Vaishnavi_ProjectReport.docx` | Full project documentation and report |
 | `README.md` | This file |
 | `fake_job_postings.csv` | Dataset used (downloaded from Kaggle) |
 | `best_fake_job_model.pkl` | Saved trained model (tuned Logistic Regression) |
